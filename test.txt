@@ -1,0 +1,7 @@
+https://github.com/ather1/javascript.git
+
+git remote add origin remote repository https://github.com/ather1/javascript.git
+# Sets the new remote
+git remote -v
+# Verifies the new remote URL
+P
